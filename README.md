@@ -18,7 +18,7 @@ This is a Python-based implementation of the classic Snake game, built using the
 
 ### Installation
 #### Step 1: Clone the repository
-git clone https://github.com/your-username/my-snake-game.git
+git clone https://github.com/mrYamusa/Snake-Game.git
 
 
 ### Running the Game
